@@ -119,3 +119,6 @@ log4j = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+grails.resources.mappers.baseurl.enabled = true
+grails.resources.mappers.baseurl.default = "http://default.prefix.for.links.com"
